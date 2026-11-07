@@ -1,0 +1,2 @@
+pymongo[srv,encryption]
+python-dotenv
